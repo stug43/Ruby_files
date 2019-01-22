@@ -9,7 +9,7 @@ L'objectif est ici d'enregistrer les données d'un scraping dans des fichiers de
 <em>Files :</em></li><li>  😴 Bon ! vous avez compris le schema... </li></ul></li></ul>
 <br/>
 <br/>
-Le seul fichier à executer est app.rb.
+Le seul fichier à executer est app.rb.<br/>
 ⚠️ Pensez bien sûr à `bundle install` et également à placer<br/>votre fichier config.json à la racine. ⚠️  <br/>
 Projet inachevé, des lignes sont à enlever dans la classe scrapper.<br/>
 Sinon tout le reste va bien ^-^ .<br/>
